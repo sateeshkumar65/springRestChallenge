@@ -1,0 +1,7 @@
+com/streamlinity/ct/restService/challenge/SearchSvcInterface.class
+com/streamlinity/ct/SpringRestChallengeApplication.class
+com/streamlinity/ct/restService/challenge/SearchSvcImpl.class
+com/streamlinity/ct/restService/challenge/SearchRestControllerImpl.class
+com/streamlinity/ct/model/Item.class
+com/streamlinity/ct/restService/config/SearchConfiguration.class
+com/streamlinity/ct/restService/config/InitSearchListener.class
